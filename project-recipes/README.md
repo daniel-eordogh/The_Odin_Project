@@ -1,4 +1,4 @@
-This repo contains the first project assignment of the odin project learning materials.
+This folder contains the first project assignment of the odin project learning materials.
 
 Key learnings:
 - html boilerplate
